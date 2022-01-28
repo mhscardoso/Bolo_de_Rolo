@@ -1,0 +1,14 @@
+.div1 {
+    background-color: rgba(72, 72, 255, 0.712);
+    color: white;
+    margin: auto;
+    margin-top: 10%;
+    width: 50%;
+    height: 75vh;
+    border: 3px solid rgba(84, 84, 255, 0.712);
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 10px;
+    text-align: center;
+    font-size: large;
+}
